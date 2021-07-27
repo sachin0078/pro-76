@@ -8,7 +8,7 @@ export default class StarMap extends React.Component{
     super();
     this.state = {
       latitude:"",
-      longitude
+      longitude:""
     };
   }
 
